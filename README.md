@@ -33,7 +33,7 @@
 
 ###  :round_pushpin: Algorithm
 
-- ####  Path: /Algorithm/{Platform}_{QuestionNumber}_{language}.md
+- ####  Path: /Algorithm/{Platform}\_{QuestionNumber}\_{language}.md
 
 - ~~Based on Python~~ 스터디 이후 취업에 따른 사용 언어 다양화로 언어 분류를 추가하며 다양화 
 
