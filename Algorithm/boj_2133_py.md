@@ -28,7 +28,7 @@ tiles[4] = 11    # 9 + 2(고유한 4)
 
 #### 2. DP 함수 아이디어
 
-[![img](./images/boj_2133_image.PNG)](https://github.com/kimsj-git/home/blob/master/1110_study/220820/assets/boj_2133_image.png)
+[![img](./images/boj_2133_image.png)](https://github.com/kimsj-git/home/blob/master/1110_study/220820/assets/boj_2133_image.png)
 
 ### 코드
 
