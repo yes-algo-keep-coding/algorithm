@@ -1,108 +1,3 @@
-# :books: YES ALGO KEEP CODING
-
-> 알고리즘 스터디로 시작하여 CS 스터디로 뻗어나가는 **'모여서 각자 알고리즘'** 의 Git Repository
-
-- :calendar: <b>운영 기간: 2022년 8월 1일 ~ </b>
-
-## :trophy: Contributors
-
-<div style="overflow: scroll;">
-<table border="2">
-<th width="125" height="125" align="middle">
-<a href="https://github.com/Joripje">
-<img src="https://avatars.githubusercontent.com/u/89237865?v=4" width="100" height="100">
-</a>
-</th>
-<th width="125" height="125" align="middle">
-<a href="https://github.com/kimsj-git">
-<img src="https://avatars.githubusercontent.com/u/109324498?v=4" width="100" height="100">
-</a>
-</th>
-<th width="125" height="125" align="middle">
-<a href="https://github.com/mucho7">
-<img src="https://avatars.githubusercontent.com/u/109324468?v=4" width="100" height="100">
-</a>
-</th>
-<th width="125" height="125" align="middle">
-<a href="https://github.com/seotai">
-<img src="https://avatars.githubusercontent.com/u/109324478?v=4" width="100" height="100">
-</a>
-</th>
-<th width="125" height="125" align="middle">
-<a href="https://github.com/sjsjlim">
-<img src="https://avatars.githubusercontent.com/u/109324476?v=4" width="100" height="100">
-</a>
-</th>
-<th width="125" height="125" align="middle">
-<a href="https://github.com/TraceofLight">
-<img src="https://avatars.githubusercontent.com/u/98262849?v=4" width="100" height="100">
-</a>
-</th>
-<tr>
-<td align="middle"><a href="https://github.com/Joripje">Joripje</a></td>
-<td align="middle"><a href="https://github.com/kimsj-git">kimsj-git</a></td>
-<td align="middle"><a href="https://github.com/mucho7">mucho7</a></td>
-<td align="middle"><a href="https://github.com/seotai">seotai</a></td>
-<td align="middle"><a href="https://github.com/sjsjlim">sjsjlim</a></td>
-<td align="middle"><a href="https://github.com/TraceofLight">TraceofLight</a></td>
-</tr>
-</table>
-</div>
-
-## :loudspeaker: Meeting at..
-
-- 정기 모임: 매주 토요일 10시
-- 모임 방식: 비대면 Discord 채널을 통한 실시간 소통
-
-## :golf: Goals
-
-- **단기 목표** :bar_chart:
-
-  > ~~스터디원 전원 백준 기준 골드 도달~~  **Achieved**
-- **중장기 목표** :chart_with_upwards_trend:
-
-  > IT 서비스 기업 취업에 필요한 지식 전반의 함양
-
-## :hammer: Methods
-
-### :bulb: Algorithm
-
-<details>
-	<summary> Past Worked </summary>
-    <hr>
-	<div>
-        <p>
-            <span>&#183</span> 초반 운영 계획
-        </p>
-        <p>
-            <span>&#183</span> 매주 알고리즘 3문항 + 개인 선택 3문항 선택 후 전부 풀이
-        </p>
-        <p>
-            <span>&#183</span> 발표할 문항 사전 선택 후 정기 모임에서 코드 리뷰 및 QnA 진행
-        </p>
-		<p>
-            <span>&#183</span> 중반 운영 계획
-        </p>
-        <p>
-            <span>&#183</span> 매주 사전 선별된 알고리즘 6문항 각자 1문항씩 선택 후 전부 풀이
-        </p>
-        <p>
-            <span>&#183</span> 본인이 선택한 문제 발표 진행 후 정기 모임에서 코드 리뷰 및 QnA 진행
-        </p>
-	</div>
-    <hr>
-</details>
-
-- 중반 이후 운영 계획 **[`Proceeding`]**
-  - CS를 중점으로, 알고리즘을 서브 목표로 변경
-  - 기존에 학습한 지식 전반을 활용할 수 있도록 문항 선별 후 전부 풀이
-
-### :computer: Computer Science 
-
-- 초반 운영 계획 **[`Proceeding`]**
-  - CS 기초 지식의 함양을 위한 정보처리기사 취득을 목표로 하는 학습
-  - 심화 학습을 통한 면접 대비
-
 ## :scroll: Rules
 
 ###   :round_pushpin: Commits
@@ -138,29 +33,13 @@
 
 ###  :round_pushpin: Algorithm
 
-- ####  Path: /Algorithm/{Platform}_{QuestionNumber}.md
+- ####  Path: /Algorithm/{Platform}_{QuestionNumber}_{language}.md
 
-- Based on `Python`
+- ~~Based on Python~~ 스터디 이후 취업에 따른 사용 언어 다양화로 언어 분류를 추가하며 다양화 
 
 - Platform 코드는 백준: `boj`, 프로그래머스: `ps`, 리트코드: `lc` 로 통일
 - 업로드 후 각자의 Reports 에 경로를 추가할 것
 - 이미지 파일은 images 폴더에 통합 저장하며 파일 정보를 알 수 있도록 파일명을 제공할 것
-
-###   :round_pushpin: Operating System
-
-- #### Path: /ComputerScience/OperatingSystem/{UserName}/{PartTitle}.md
-
-- Based on [운영체제와 정보기술의 원리 by 반효경 (2014년 KOCW)](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)
-
-- 이미지 파일은 UserName 이하 images 폴더에 통합 저장하며 파일 정보를 알 수 있도록 파일명을 제공할 것
-
-###   :round_pushpin: Network
-
-- #### Path: /ComputerScience/Network/{UserName}/Network_Week_{WeekNumber}.md
-
-- Based on [성공과 실패를 결정하는 1%의 네트워크 원리 (2nd Edition)](https://nl.go.kr/seoji/contents/S80100000000.do?schM=intgr_detail_view_isbn&isbn=9788931553482)
-
-- 이미지 파일은 UserName 이하 images 폴더에 통합 저장하며 파일 정보를 알 수 있도록 파일명을 제공할 것
 
 ## :movie_camera: Records
 
